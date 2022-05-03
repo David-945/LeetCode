@@ -41,5 +41,6 @@ public class Solution {
         Solution s = new Solution();
         int[] i = s.twoSum(nums,target);
         System.out.println(Arrays.toString(i));
+
     }
 }
